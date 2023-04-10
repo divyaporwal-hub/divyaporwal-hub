@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Divya Porwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align ="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align ="right" alt="Coding" width="140" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaporwal-hub&label=Profile%20views&color=0e75b6&style=flat" alt="divyaporwal-hub" /> </p>
 
