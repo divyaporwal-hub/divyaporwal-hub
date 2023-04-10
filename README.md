@@ -1,10 +1,9 @@
 
-![logo](https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(1).gif)
+![logo]([https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(1).gif](https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(3).gif))
 <h1 align="center">Hi 👋, I'm Divya Porwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/77608417/230967924-7288c059-264c-4022-8a09-245054fbd3c4
-">
+<img align ="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaporwal-hub&label=Profile%20views&color=0e75b6&style=flat" alt="divyaporwal-hub" /> </p>
 
