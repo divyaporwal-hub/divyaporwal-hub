@@ -1,5 +1,5 @@
 
-![logo]([https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(1).gif](https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(3).gif))
+![logo](https://github.com/divyaporwal-hub/divyaporwal-hub/blob/main/Coding%20Girl%20Animation%20(3).gif)
 <h1 align="center">Hi 👋, I'm Divya Porwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
